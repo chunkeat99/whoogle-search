@@ -1,7 +1,7 @@
 {
-    "name": "Whoogle Search",
+    "name": "chunkeat.me",
     "description": "A lightweight, privacy-oriented, containerized Google search proxy for desktop/mobile that removes Javascript, AMP links, tracking, and ads/sponsored content",
-    "repository": "https://github.com/benbusby/whoogle-search",
+    "repository": "https://github.com/chunkeat99/whoogle-search",
     "logo": "https://raw.githubusercontent.com/benbusby/whoogle-search/master/app/static/img/favicon/ms-icon-150x150.png",
     "keywords": ["search", "metasearch", "flask", "docker", "heroku", "adblock", "degoogle", "privacy"],
     "stack": "container"

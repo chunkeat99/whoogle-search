@@ -7,14 +7,14 @@ requirements = list(open('requirements.txt', 'r'))
 setuptools.setup(
     author='Ben Busby',
     author_email='benbusby@protonmail.com',
-    name='whoogle-search',
+    name='iamck-search',
     version='0.2.1',
     include_package_data=True,
     install_requires=requirements,
     description='Self-hosted, ad-free, privacy-respecting Google metasearch engine',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/benbusby/whoogle-search',
+    url='https://github.com/chunkeat99/whoogle-search',
     entry_points={
         'console_scripts': [
             'whoogle-search=app.routes:run_app',
